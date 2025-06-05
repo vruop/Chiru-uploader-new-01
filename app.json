@@ -1,10 +1,10 @@
 {
-    "name": "Drm Uploader By 🅱🅴🅰🆂🆃 👑",
-    "description": "DRM Uploader",
-    "logo": "https://tinypic.host/image/Screenshot-2025-03-19-06-40-21-30.3gKoOw",
+    "name": "UPLODER BY--- ANJAN PERSON",
+    "description": "UPLOADER",
+    "logo": "https://tinypic.host/image/2.3fHZqz",
     "keywords": [
-        "text-video",
-        "video-extract",
+        "textvideo",
+        "videoextract",
         "pyrogram"
     ],
     "repository": "https://github.com/Chiru63019/Classplusdrm",
@@ -13,12 +13,12 @@
     "env": {
         "API_ID": {
             "description": "enter_your_api_id",
-            "value": "26468828",
+            "value": "25566754",
             "required": true
         },
         "API_HASH": {
             "description": "enter_your_api_harsh",
-            "value": "4693513c08d1ac6af15f95b116c29478",
+            "value": "27609daf8ee847978797a359024e7607",
             "required": true
         },
         "BOT_TOKEN": {
