@@ -45,7 +45,7 @@ photo = "photo.jpg"
 
 api_url = "http://master-api-v3.vercel.app/"
 api_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNzkxOTMzNDE5NSIsInRnX3VzZXJuYW1lIjoi4p61IFtvZmZsaW5lXSIsImlhdCI6MTczODY5MjA3N30.SXzZ1MZcvMp5sGESj0hBKSghhxJ3k1GTWoBUbivUe1I"
-token_cp = "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTIxMzgyNjMyLCJvcmdJZCI6NTU3MywidHlwZSI6MSwibW9iaWxlIjoiOTE4NjE4MDg2MDg5IiwibmFtZSI6Ik5pbGVzaCIsImVtYWlsIjoicHJ"
+token_cp = "eyJjb3Vyc2VJZCI6IjQxOTk4MCIsInR1dG9ySWQiOm51bGwsIm9yZ0lkIjo5MTgzLCJjYXRlZ29yeUlkIjpudWxsfQ=="
 
 
 import random
